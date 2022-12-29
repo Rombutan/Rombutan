@@ -1,5 +1,6 @@
 I am a human who does loads of microcontroller stuff, especially where it applies to ham radio and frc. I read all the XKCD, and talk for days about comms, tech, and people on the radio.
 
+QRA kn6hbw
 email @ lucaguyyounes@gmail.com
 
 <!---
