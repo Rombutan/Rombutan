@@ -1,6 +1,4 @@
-I am a human who does loads of microcontroller stuff, especially where it applies to ham radio and frc. I read all the XKCD, and talk for days about comms, tech, and people on the radio.
-
-QRA kn6hbw
+Mainly an FRC student, mostly do electrical and fabrication, I can do some cad and software too. I like my projects, but I don't like documenting them. Also do some embedded software for neusleep.
 
 email @ lucaguyyounes@gmail.com
 
